@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Home
+title: My Page Title
 ---
 
-# Hello, world!
+# This is a heading
 
-Welcome to my site. This page is written in **Markdown**.
+This is for lab credit attendance
 
-- Item one
-- Item two
+[puffer party]((https://krillion.io/party)).
 
-[Visit GitHub](https://github.com)
+![image](/images/photo.jpg)
