@@ -7,6 +7,6 @@ title: My Page Title
 
 This is for lab credit attendance
 
-[puffer party]((https://krillion.io/party)).
+[puffer party](https://krillion.io/party).
 
-![image](/images/photo.jpg)
+![one in a krillion](/photo.jpg)
